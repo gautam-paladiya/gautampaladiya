@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gautampaladiya/static/css/main.27d15139.css",
+    "main.js": "/gautampaladiya/static/js/main.9197b0af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gautampaladiya/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile_img.jpg": "/gautampaladiya/static/media/profile_img.bc9f3a4c999986c321a0.jpg",
+    "static/media/CV.pdf": "/gautampaladiya/static/media/CV.75d5a19a80a4562f34da.pdf",
+    "index.html": "/gautampaladiya/index.html",
+    "main.27d15139.css.map": "/gautampaladiya/static/css/main.27d15139.css.map",
+    "main.9197b0af.js.map": "/gautampaladiya/static/js/main.9197b0af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gautampaladiya/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d15139.css",
+    "static/js/main.9197b0af.js"
+  ]
+}
