@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import theme from "./theme";
+import { Box } from "@mui/system";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -13,6 +14,7 @@ root.render(
       <CssBaseline />
       <App />
     </ThemeProvider>
+    {/* <Box>hello</Box> */}
   </React.StrictMode>
 );
 

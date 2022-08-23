@@ -1,7 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "start_url": ".",
   "homepage": "https://gautam-paladiya.github.io/gautampaladiya",
   "dependencies": {
     "@emotion/react": "^11.10.0",
